@@ -744,3 +744,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.31-12.59.06:292][670]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial1, compiling. 
 [2019.05.31-12.59.06:367][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
 [2019.05.31-12.59.06:377][670]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.31-13.00.58:616][670]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.31-13.00.58:617][670]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.31-13.00.58:640][670]TextureStreamingBuild: Display: Compiling optional shaders took 112.273 seconds.
+[2019.05.31-13.00.58:686][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 1 (  Trying 34.235.38.192...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 3 (connect to 34.235.38.192 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 4 (  Trying 52.1.48.131...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 5 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 6 (After 19484ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 7 (connect to 52.1.48.131 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 8 (  Trying 52.6.79.2...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 10 (After 9742ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 11 (connect to 52.6.79.2 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 12 (  Trying 52.21.4.215...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 13 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 14 (After 4867ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 15 (connect to 52.21.4.215 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 16 (  Trying 52.203.204.201...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 17 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 18 (After 2430ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 19 (connect to 52.203.204.201 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 20 (  Trying 54.87.31.36...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 21 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 23 (connect to 54.87.31.36 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 24 (  Trying 54.88.250.173...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 25 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 26 (After 602ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 27 (connect to 54.88.250.173 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 28 (  Trying 54.164.85.241...)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 29 (TCP_NODELAY set)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 30 (After 297ms connect time, move on!)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 31 (connect to 54.164.85.241 port 443 failed: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.05.31-13.00.58:818][671]LogHttp: Warning: 0000021EC2E01080: libcurl info message cache 33 (Closing connection 2)
+[2019.05.31-13.00.58:824][671]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.31-13.00.59:096][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23C60A1A-4FBC-CAA5-5874-EA8DD0B82D9C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=59a4c296403d385e74d21abb86caf988%7Ca442e1c27f12418491cfad545b8fd0d5%7C9c893d2a-f566-41ff-baee-8913781999c3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.31-13.01.07:243][862]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.31-13.01.08:108][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-13.01.09:317][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.05.31-13.01.09:317][881]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.030
+[2019.05.31-13.01.09:318][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bomb] ([1] browsable assets)...
+[2019.05.31-13.01.09:358][881]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bomb.Bomb]
+[2019.05.31-13.01.09:358][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bomb]
+[2019.05.31-13.01.09:358][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bomb" FILE="../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Autosaves/Game/Bomb_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.31-13.01.09:404][881]LogSavePackage: Moving '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Bomb_Auto1450A15B84884C234344FEFA320828AAE.tmp' to '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Autosaves/Game/Bomb_Auto1.uasset'
+[2019.05.31-13.01.09:405][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2019.05.31-13.01.09:444][881]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2019.05.31-13.01.09:444][881]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2019.05.31-13.01.09:461][881]LogSavePackage: Moving '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/BasicShapeMaterial_Auto1AC537276474C256AC865109C2A665D5D.tmp' to '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto1.uasset'
+[2019.05.31-13.01.09:461][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial1] ([1] browsable assets)...
+[2019.05.31-13.01.09:502][881]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial1.BasicShapeMaterial1]
+[2019.05.31-13.01.09:502][881]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial1]
+[2019.05.31-13.01.09:516][881]LogSavePackage: Moving '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/BasicShapeMaterial1_Auto1F2E51D7F42420A65E2ED6FAD85CD29CE.tmp' to '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial1_Auto1.uasset'
+[2019.05.31-13.01.09:516][881]LogFileHelpers: Auto-saving content packages took 0.199
+[2019.05.31-13.01.14:149][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-13.01.14:242][950]BlueprintLog: New page: Compile Bomb
+[2019.05.31-13.01.14:392][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.05.31-13.01.15:200][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bomb" FILE="../../../../../Game-ReSoul/Disign/Ui/Interface/Content/Bomb.uasset" SILENT=true
+[2019.05.31-13.01.15:217][956]LogSavePackage: Moving '../../../../../Game-ReSoul/Disign/Ui/Interface/Saved/Bomb567A1DED4611B4C02AA0608831E9E3C4.tmp' to '../../../../../Game-ReSoul/Disign/Ui/Interface/Content/Bomb.uasset'
+[2019.05.31-13.01.16:845][974]LogSlate: Window 'Bomb' being destroyed
+[2019.05.31-13.01.16:951][974]LogSlate: Window 'Bomb' being destroyed
+[2019.05.31-13.01.37:364][ 54]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.540 sec). This should never happen. Something is wrong with the timer delegate!
